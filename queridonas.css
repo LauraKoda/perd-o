@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color: rgb(147, 231, 231);
+    font-size: 25px;
+  }  
+  
+  #album
+  {
+    height:450px;
+    border-radius:30px;
+  }
+  button
+  {
+  background-color:#c792d1;
+    border-radius: 50px;
+    font-size: 25px;
+  }
